@@ -28,7 +28,7 @@ int main(void) {
 	printf("Maximum float positive value: %E\n", FLT_MAX );
 	printf("Precision value: %d\n\n", FLT_DIG );
 			        
-	printf("Storage size for float : %lu \n", sizeof(double));
+	printf("Storage size for double : %lu \n", sizeof(double));
 	printf("Minimum double positive value: %E\n", DBL_MIN );
 	printf("Maximum double positive value: %E\n", DBL_MAX );
 	printf("Precision value: %d\n", DBL_DIG );
